@@ -3,7 +3,7 @@
 
 [![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png?version=1&modificationDate=1446673897000&api=v2)](https://www.sap.com/brazil/developer.html)
 
- Configurações para debub externo.
+Existem configurações diferentes para itens diferentes. Um deles para `debug externo` e outro para `update task`
 
 
 ## External
@@ -45,3 +45,17 @@ Mas quando for colocar o break ele te avisa..
 daí tem que pedir pra mudar o TIPO do usuário pra fazer a depuração.. 
 
 ## Update Task
+
+só marcar ese FLAG que já está ativo kkk 
+
+depurar atualização 
+
+Mas isso só funciona para funções em UPDATE TASK
+
+um caso bom pra testar isso é fazer um pedido de compra.. 
+
+vc faz ele debugando normal.. 
+
+e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
+
+]kkkk
