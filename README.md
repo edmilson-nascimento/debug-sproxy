@@ -1,22 +1,19 @@
 # External Debug
 
+![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png)
 
-[![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png?version=1&modificationDate=1446673897000&api=v2)](https://www.sap.com/brazil/developer.html)
 
 Existem configurações diferentes para itens diferentes. Um deles para `debug externo` e outro para `update task`
 
 
 ## External
 
-Agora não tem mistério... 
+Agora não tem mistério... vc vai no código onde quer colocar o break.. 
 
-vc vai no código onde quer colocar o break.. 
-
-
+![N|Solid](img/u-c.png)
 
 
-
-Coloca o usuário que chamará o ]SAP externamente
+Coloca o usuário que chamará o que SAP externamente
 
 Ou seja.. 
 
