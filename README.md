@@ -51,8 +51,12 @@ Não menos importante, mas ~~como eu sempre esqueço e tenho que perguntar pro M
 Acessar a transação `SPROXY` e ir ate o menu **Utilities > Settings**.
 ![N|Solid](img/sproxy-menu.png)
 
-Nas opções abaixo
-Acessar a transação `SPROXY` e ir ate o menu **Utilities > Settings**.
+Nas opções abaixo, desmarcar todos os ~~piscos~~ flags e escolher as seguintes opções:
+- Preferred Order in Proxy Tree: `WSDL order`
+- Enterprise Service Browser: `R - ESR Browser`
+
+Após preencher essa informações, basta confirmar no botão **✓ (ok)**.  
+
 ![N|Solid](img/sproxy-config.png)
 
 
