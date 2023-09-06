@@ -60,3 +60,7 @@ Após preencher essa informações, basta confirmar no botão **✓ (ok)**.
 ![N|Solid](img/sproxy-config.png)
 
 Ainda faltam algumas coisas, mas o doc sera atualizado ~~quando eu descobrir o que pode ser~~ em breve.
+
+Agora quem vos fala é o Murilo (não falta mais kkk).... 
+A opção de "Prefered Order in Proxy Tree" é justamente pra order pelo WSDL (o que eu acho mais interessante), até pra ficar tudo que é de um mesmo serviço junto.
+Já a opção de Enterprise Service Browser utilizo sempre a opção "R ESR Browser" porque eu gosto sempre de ter a visão EXATA do PI/PO e o motivo maior é que quando eu aprendi esse rolê só tinha essa visão e me sinto mais confortável, prático e rápido kkkkkk...
