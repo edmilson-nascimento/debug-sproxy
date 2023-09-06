@@ -44,3 +44,11 @@ vc faz ele debugando normal..
 e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
 
 ]kkkk
+
+## SPROXY config
+Não menos importante, mas ~~como eu sempre esqueço e tenho que perguntar pro Murilo e nem sempre ele esta de bom humor~~ eu acho importante salvar essas opções para futuramente ter onde procurar essa info.
+
+Acessar a transação `SPROXY` e ir ate o menu **co**
+![N|Solid](img/sproxy-menu.png)
+
+
