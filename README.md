@@ -14,14 +14,14 @@ Com o código fonte aberto (pela transação `SE38` por exemplo), acessar o menu
 
 A tela de configurações abaixo será exibida. Para a o objetivo, é preciso acessar **Editor ABAP > Depuração**. Marcar a opção **Usuário** e informar no campo o usuário que chamará o que SAP externamente, neste caso, `S-PIDI1`, uu seja, o usuário que está configurado no outro sistema.
 
-Após preencher essa informações, basta confirmar no botão **ok**.  
+Após preencher essa informações, basta confirmar no botão **✓ (ok)**.  
 
 
 ![N|Solid](img/user-debug.png)
 
+Depois de confirmar, basta colocar o `BREAK externo`.
 
-e ai sim coloca o BREAK externo
-
+![N|Solid](img/u-c.png)
 
 
 que é o que tem o bonequinho.. 
