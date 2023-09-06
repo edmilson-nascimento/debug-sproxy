@@ -60,7 +60,3 @@ Após preencher essa informações, basta confirmar no botão **✓ (ok)**.
 ![N|Solid](img/sproxy-config.png)
 
 Ainda faltam algumas coisas, mas o doc sera atualizado ~~quando eu descobrir o que pode ser~~ em breve.
-
-
-
-
