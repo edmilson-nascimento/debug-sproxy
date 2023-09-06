@@ -51,12 +51,12 @@ Não menos importante, mas ~~como eu sempre esqueço e tenho que perguntar pro M
 Acessar a transação `SPROXY` e ir ate o menu **Utilities > Settings**.
 ![N|Solid](img/sproxy-menu.png)
 
-Nas opções abaixo, desmarcar todos os ~~piscos~~ flags e escolher as seguintes opções:
-- Preferred Order in Proxy Tree: `WSDL order`
-- Enterprise Service Browser: `R - ESR Browser`
-
-Após preencher essa informações, basta confirmar no botão **✓ (ok)**.  
-
+Nas opções abaixo
+Acessar a transação `SPROXY` e ir ate o menu **Utilities > Settings**.
 ![N|Solid](img/sproxy-config.png)
+
+Agora quem vos fala é o Murilo.... 
+A opção de "Prefered Order in Proxy Tree" é justamente pra order pelo WSDL (o que eu acho mais interessante), até pra ficar tudo que é de um mesmo serviço junto.
+Já a opção de Enterprise Service Browser utilizo sempre a opção "R ESR Browser" porque eu gosto sempre de ter a visão EXATA do PI/PO e o motivo maior é que quando eu aprendi esse rolê só tinha essa visão e me sinto mais confortável, prático e rápido kkkkkk...
 
 
