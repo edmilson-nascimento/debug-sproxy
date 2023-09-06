@@ -19,26 +19,15 @@ Após preencher essa informações, basta confirmar no botão **✓ (ok)**.
 
 ![N|Solid](img/user-debug.png)
 
-Depois de confirmar, basta colocar o `BREAK externo`.
+Depois de confirmar, basta colocar o `BREAK externo` (que é o que tem o bonequinho ☺).
 
-![N|Solid](img/u-c.png)
+![N|Solid](img/break-externo.png)
+
+Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se ele for de `B - Sistema` acho que não faz o debug. Mas quando for colocar o break, o SAP te avisa. Então tem que pedir pra mudar o *TP.Usuário* do usuário pra fazer a depuração.
+
+![N|Solid](img/type-user.png)
 
 
-que é o que tem o bonequinho.. 
-
-Massssssss
-
-para isso funcionar 
-
-depende da permissão desse usuário externo.. 
-
-se ele for de SISTEMA... 
-
-acho que não debuga.. 
-
-Mas quando for colocar o break ele te avisa.. 
-
-daí tem que pedir pra mudar o TIPO do usuário pra fazer a depuração.. 
 
 ## Update Task
 
