@@ -1,25 +1,24 @@
-# External Debug
+# External Debug / SPROXY Config
 
 ![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png)
 ~~eu sempre me esqueço das configurações para debug externo e tambem update task, enfim, vou salvar o que Murilo me mostrou para deixar de perguntar 2x vezes por mês a mesma coisa.~~
 
-Existem configurações diferentes para itens diferentes. Um deles para `debug externo` e outro para `update task`
+Existem configurações diferentes para itens diferentes. Um deles para `debug externo` e outro para `update task`. De bonus, tambem vou colocar as config da transação de `SPROXY` ~~que tambem eu sempre esqueço e fico perguntado para o Murilo~~.
 
 
-## External
+## Debug External
 
-Agora não tem mistério... vc vai no código onde quer colocar o break.. 
+Com o código fonte aberto (pela transação `SE38` por exemplo), acessar o menu **Utilitarios > Configurações**.
 
 ![N|Solid](img/u-c.png)
 
+A tela de configurações abaixo será exibida. Para a o objetivo, é preciso acessar **Editor ABAP > Depuração**. Marcar a opção **Usuário** e informar no campo o usuário que chamará o que SAP externamente, neste caso, `S-PIDI1`, uu seja, o usuário que está configurado no outro sistema.
 
-Coloca o usuário que chamará o que SAP externamente
+Após preencher essa informações, basta confirmar no botão **ok**.  
 
-Ou seja.. 
 
-o usuário que está configurado no outro sistema... 
+![N|Solid](img/user-debug.png)
 
-confirma.. 
 
 e ai sim coloca o BREAK externo
 
