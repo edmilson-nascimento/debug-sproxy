@@ -27,7 +27,7 @@ Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se
 
 ![N|Solid](img/type-user.png)
 
-
+É necessario uma sessão livre pois ira abrir em uma nova janela.
 
 ## Update Task
 
