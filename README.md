@@ -31,6 +31,7 @@ Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se
 
 ## Update Task
 
+
 só marcar ese FLAG que já está ativo kkk 
 
 depurar atualização 
@@ -42,6 +43,38 @@ um caso bom pra testar isso é fazer um pedido de compra..
 vc faz ele debugando normal.. 
 
 e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
+
+
+simples.. 
+
+vc precisa debugar uma função em update task.. 
+
+quando passa por ela.. 
+
+vc não entra.. somente passa (não sei se já percebeu isso)
+
+se ativar esse parametro.. 
+
+irá continuar passando... 
+
+só que quando der F8 e der o COMMIt
+
+irá vair nessa função.. 
+
+4:17 PM
+
+se ativar esse parametro.. 
+Murilo Borges de Oliveira, Today at 4:16 PM
+Qual o parametro?
+
+só que quando der F8 e der o COMMIt
+Murilo Borges de Oliveira, Today at 4:17 PM
+Ele joga para outra task, mas so inicia depois do commit, correto?
+
+Murilo, 4:17 PM
+isso mesmo.. 
+
+o parametro do }DEBUG.. perae
 
 ## SPROXY config
 Não menos importante, mas ~~como eu sempre esqueço e tenho que perguntar pro Murilo e nem sempre ele esta de bom humor~~ eu acho importante salvar essas opções para futuramente ter onde procurar essa info.
