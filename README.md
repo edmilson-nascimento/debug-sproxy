@@ -37,6 +37,14 @@ A sintaxe abaixo é familiar em alguns cenarios e existe uma maneira diferente d
 
 Com a necessidade de realizar o debug de funções que tem sintaxe `in update task`, algumas configurações devem ser atualizadas.
 
+Inicie um debug de qualquer programa e deve ir ate o o menu **Configurações > Modificiar configurações/Perfil depurador (shift+1)**.
+
+![N|Solid](img/update-task-1.png)
+
+Na proxima tela, deve ser marcada a opção **Depudação atualiz.**, conforme indicado na imagem abaixo.
+
+![N|Solid](img/update-task-2.png)
+
 
 
 vc precisa debugar uma função em update task.. 
@@ -52,8 +60,6 @@ irá continuar passando...
 só que quando der F8 e der o COMMIt
 e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
 irá vair nessa função.. 
-
-4:17 PM
 
 se ativar esse parametro.. 
 Murilo Borges de Oliveira, Today at 4:16 PM
