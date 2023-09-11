@@ -31,7 +31,13 @@ Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se
 
 ## Update Task
 
+A sintaxe abaixo é familiar em alguns cenarios e existe uma maneira diferente de executar o debug dessa opção.
+
+
+
 Com a necessidade de realizar o debug de funções que tem sintaxe `in update task`, algumas configurações devem ser atualizadas.
+
+
 
 vc precisa debugar uma função em update task.. 
 
