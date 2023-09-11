@@ -31,21 +31,7 @@ Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se
 
 ## Update Task
 
-
-só marcar ese FLAG que já está ativo kkk 
-
-depurar atualização 
-
-Mas isso só funciona para funções em UPDATE TASK
-
-um caso bom pra testar isso é fazer um pedido de compra.. 
-
-vc faz ele debugando normal.. 
-
-e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
-
-
-simples.. 
+Com a necessidade de realizar o debug de funções que tem sintaxe `in update task`, algumas configurações devem ser atualizadas.
 
 vc precisa debugar uma função em update task.. 
 
@@ -58,7 +44,7 @@ se ativar esse parametro..
 irá continuar passando... 
 
 só que quando der F8 e der o COMMIt
-
+e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
 irá vair nessa função.. 
 
 4:17 PM
