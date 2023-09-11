@@ -33,7 +33,7 @@ Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se
 
 A sintaxe abaixo é familiar em alguns cenarios e existe uma maneira diferente de executar o debug dessa opção.
 
-
+![N|Solid](img/update-task-0.png)
 
 Com a necessidade de realizar o debug de funções que tem sintaxe `in update task`, algumas configurações devem ser atualizadas.
 
