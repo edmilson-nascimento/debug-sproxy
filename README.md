@@ -45,13 +45,11 @@ Na proxima tela, deve ser marcada a opção **Depudação atualiz.**, conforme i
 
 ![N|Solid](img/update-task-2.png)
 
+Então, a configuração correta passa a ficar da maneira que esta abaixo.
 
+![N|Solid](img/update-task-2.1.png)
 
-vc precisa debugar uma função em update task.. 
-
-quando passa por ela.. 
-
-vc não entra.. somente passa (não sei se já percebeu isso)
+Durante o processamento de um codigo onde existe a chamada de função com o tempo `update task`,  quando passa por ela, vc não entra.. somente passa (não sei se já percebeu isso)
 
 se ativar esse parametro.. 
 
