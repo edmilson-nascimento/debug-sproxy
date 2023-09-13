@@ -49,13 +49,9 @@ Então, a configuração correta passa a ficar da maneira que esta abaixo.
 
 ![N|Solid](img/update-task-2.1.png)
 
-Durante o processamento de um codigo onde existe a chamada de função com o tempo `update task`,  quando passa por ela, vc não entra.. somente passa (não sei se já percebeu isso)
+Durante o processamento de um codigo onde existe a chamada de função com o tempo `update task`,  quando passa por ela, o cursor de debug não entra no processamento da função, somente passa (não sei se já percebeu isso).
 
-se ativar esse parametro.. 
-
-irá continuar passando... 
-
-só que quando der F8 e der o COMMIt
+Se ativar esse parametro (Depuração atualiz.), irá continuar passando e só quando der F8 (continue) e houver um `der o COMMIt
 e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
 irá vair nessa função.. 
 
