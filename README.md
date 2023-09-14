@@ -55,6 +55,8 @@ Se ativar esse parametro (Depuração atualiz.), irá continuar passando e só q
 e epoius que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de UPDATE TASK
 irá vair nessa função.. 
 
+### tem alguma cena de ter uma tela de debug aberta antes disso. tenho que verifiacar
+
 se ativar esse parametro.. 
 Murilo Borges de Oliveira, Today at 4:16 PM
 Qual o parametro?
