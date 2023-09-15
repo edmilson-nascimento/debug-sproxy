@@ -49,26 +49,12 @@ Então, a configuração correta passa a ficar da maneira que esta abaixo.
 
 ![N|Solid](img/update-task-2.1.png)
 
-Durante o processamento de um codigo onde existe a chamada de função com o tempo `update task`,  quando passa por ela, o cursor de debug não entra no processamento da função, somente passa (não sei se já percebeu isso).
+Durante o processamento do codigo, onde existe a chamada de função com o termo `update task`,  ao passar pela instrução, o cursor de debug não entra no processamento da função, somente passa (não sei se já percebeu isso).
 
-Se ativar esse parametro (Depuração atualiz.), irá continuar passando e só quando /der F8 (continue) e houver um `commit work`. 
-e depous que dá F8.. passa um pouquinho e abre outra tela de DEBUG já nas funções de `UPDATE TASK`
-irá vair nessa função.. 
+Se ativar esse parametro (Depuração atualiz.), irá continuar passando e só quando der F8 (continue) e houver um `commit work`, passa um pouquinho e abre outra tela de DEBUG já nas funções de `UPDATE TASK`.
 
-### tem alguma cena de ter uma tela de debug aberta antes disso. tenho que verifiacar
+> Tem alguma cena de ter uma tela de debug aberta antes disso. tenho que verifiacar
 
-se ativar esse parametro.. 
-Murilo Borges de Oliveira, Today at 4:16 PM
-Qual o parametro?
-
-só que quando der F8 e der o COMMIt
-Murilo Borges de Oliveira, Today at 4:17 PM
-Ele joga para outra task, mas so inicia depois do commit, correto?
-
-Murilo, 4:17 PM
-isso mesmo.. 
-
-o parametro do DEBUG.. perae
 
 ## SPROXY config
 Não menos importante, mas ~~como eu sempre esqueço e tenho que perguntar pro Murilo e nem sempre ele esta de bom humor~~ eu acho importante salvar essas opções para futuramente ter onde procurar essa info.
