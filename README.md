@@ -5,7 +5,8 @@
 
 Existem configurações diferentes para itens diferentes. Um deles para `debug externo` e outro para `update task`. De bonus, tambem vou colocar as config da transação de `SPROXY` ~~que tambem eu sempre esqueço e fico perguntado para o Murilo~~. 
 
-> Importantes ter o arquivo de debug de janelas popup
+> Importantes ter o arquivo de debug de janelas popup.
+
 Para debug de popup, é possivel arrastar o arquivo para a janela e isso ja vai iniciar como se tivesse usado o `/H`. É possivel encontrar o arquivo [aqui](/files/debug.sap).
 
 ## Debug External
