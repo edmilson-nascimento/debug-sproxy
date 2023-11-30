@@ -9,10 +9,6 @@ Existem configurações diferentes para itens diferentes. Um deles para `debug e
 
 Para debug de popup, é possivel arrastar o arquivo para a janela e isso ja vai iniciar como se tivesse usado o `/H`. É possivel encontrar o arquivo [aqui](/files/debug.sap).
 
-- [ ]=
-- [ ] list
-- [x] lll
-
 ## Debug External
 
 Com o código fonte aberto (pela transação `SE38` por exemplo), acessar o menu **Utilitarios > Configurações**.
