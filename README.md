@@ -1,6 +1,8 @@
 # External Debug / SPROXY Config
 
 ![N|Solid](img/sap-abap.jpeg)
+![Static Badge](https://img.shields.io/badge/development-abap-blue)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/debug)
 
 ~~eu sempre me esqueço das configurações para debug externo e tambem update task, enfim, vou salvar o que Murilo me mostrou para deixar de perguntar 2x vezes por mês a mesma coisa...~~
 
