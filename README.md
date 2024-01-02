@@ -21,7 +21,7 @@ Com o código fonte aberto (pela transação `SE38` por exemplo), acessar o menu
 
 A tela de configurações abaixo será exibida. Para a o objetivo, é preciso acessar **Editor ABAP > Depuração**. Marcar a opção **Usuário** e informar no campo o usuário que chamará o que SAP externamente, neste caso, `S-PIDI1`, uu seja, o usuário que está configurado no outro sistema.
 
-Após preencher essas informações, basta confirmar no botão **✓ (ok)**.  
+Após preencher essas informações, basta confirmar no botão **✓** (ok).  
 
 
 ![N|Solid](img/user-debug.png)
