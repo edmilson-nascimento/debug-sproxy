@@ -32,7 +32,7 @@ Depois de confirmar, basta colocar o `BREAK externo` (que é o que tem o bonequi
 
 ![N|Solid](img/break-externo.png)
 
-Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se ele for de `B - Sistema` acho que não faz o debug. Mas quando for colocar o break, o SAP te avisa. Então tem que pedir pra mudar o *TP.Usuário* do usuário pra fazer a depuração.
+Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se ele for de `B - Sistema` acho que não faz o debug. Mas quando for colocar o `break`, o SAP te avisa informa com uma mensagem se há ou não permissão. Então tem que pedir pra mudar o *TP.Usuário* do usuário pra fazer a depuração.
 
 ![N|Solid](img/type-user.png)
 
