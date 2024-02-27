@@ -62,7 +62,7 @@ Durante o processamento do codigo, onde existe a chamada de função com o termo
 
 Se ativar esse parametro (Depuração atualiz.), irá continuar passando e só quando der F8 (continue) e houver um `commit work`, passa um pouquinho e abre outra tela de DEBUG já nas funções de `UPDATE TASK`.
 
-> Tem alguma cena de ter uma tela de debug aberta antes disso. tenho que verificar
+> Tem alguma cena que coloca como premissa ter uma tela de debug aberta antes disso. 
 
 
 ## SPROXY config
