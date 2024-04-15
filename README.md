@@ -56,6 +56,8 @@ Na proxima tela, deve ser marcada a opção **Depudação atualiz.**, conforme i
 
 Então, a configuração correta passa a ficar da maneira que está abaixo.
 
+
+
 ![N|Solid](img/update-task-2.1.png)
 
 Durante o processamento do codigo, onde existe a chamada de função com o termo `update task`,  ao passar pela instrução, o cursor de debug não entra no processamento da função, somente passa (não sei se já percebeu isso).
