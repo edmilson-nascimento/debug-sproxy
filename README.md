@@ -15,7 +15,7 @@ Existem configurações diferentes para itens diferentes. Um deles para `debug e
 
 Para realiar o debug de um popup, é possivel arrastar o arquivo para a janela e isso ja vai iniciar o debug como se tivesse usado o `/H`. É possivel encontrar o arquivo [aqui](/files/debug.sap).
 
-## Debug External
+## Debug externo
 
 Com o código fonte aberto (pela transação `SE38` por exemplo), acessar o menu **Utilitarios > Configurações**.
 
@@ -28,7 +28,7 @@ Após preencher essas informações, basta confirmar no botão **✓** (ok).
 
 ![N|Solid](img/user-debug.png)
 
-Depois de confirmar, basta colocar o `BREAK externo` (que é o que tem o bonequinho ☺).
+Depois de confirmar, basta colocar o `BREAK` externo (que é o que tem o bonequinho ☺).
 
 ![N|Solid](img/break-externo.png)
 
@@ -38,9 +38,9 @@ Obs.: Mas, para isso funcionar, depende da permissão desse usuário externo. Se
 
 É necessario uma sessão livre pois irá abrir em uma nova janela.
 
-## Update Task
+## Update task
 
-A sintaxe abaixo é familiar em alguns cenarios e existe uma maneira diferente de executar o debug dessa opção.
+A sintaxe abaixo é familiar em alguns cenários e existe uma maneira diferente de executar o debug dessa opção.
 
 ![N|Solid](img/update-task-0.png)
 
